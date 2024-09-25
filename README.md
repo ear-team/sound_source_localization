@@ -51,7 +51,4 @@ The original contribution of this work was done by [Laurent Lellouch](https://ww
 
 ## Contact
 
-- [Laurent Lellouch](https://www.researchgate.net/profile/Laurent-Lellouch-2) - [laurent.lellouch@outlook.com](mailto:laurent.lellouch@outlook.com) 
-- [Sylvain Haupert](https://www.researchgate.net/profile/Sylvain_Haupert) - [sylvain.haupert@mnhn.fr](mailto:sylvain.haupert@mnhn.fr)
-- [Jérôme Sueur](https://www.researchgate.net/profile/Jerome-Sueur) - [sueur@mnhn.fr](mailto:sueur@mnhn.fr)
 - [Ear team](https://ear.cnrs.fr/) - [ear@mnhn.fr](mailto:ear@mnhn.fr)
