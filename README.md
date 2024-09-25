@@ -7,6 +7,7 @@ This repository contains the code, the data and the readme to reproduce the figu
 - [sound\_source\_localization](#sound_source_localization)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
+  - [Purpose of the notebooks](#purpose-of-the-notebooks)
   - [Data Used for the notebooks](#data-used-for-the-notebooks)
   - [Documentation](#documentation)
   - [Contributing](#contributing)
@@ -29,6 +30,14 @@ This repository contains the code, the data and the readme to reproduce the figu
     - scipy >= 1.13.0
     - librosa >= 0.10.2.post1
     - matplotlib >= 3.8.4
+  
+## Purpose of the notebooks
+
+Acoustic sound source localization is an emerging approach in animal behavior and ecology to either monitor individuals or to describe the spatial and temporal structure of natural soundscapes. The localization of sound sources mainly rely on the deployment in the field of microphone arrays and on the subsequent pairwise comparison of signals to infer position through triangulation. However, most of the current methods face the challenge of separating or not the sound sources before estimating their spatial position. On the one hand, source localization with upstream separation is particularly challenging in noisy outdoor environments. On the other hand, no-separation sound source localization can be possible only when calling rates are low. Here, using four outdoor low-cost recorders, we propose a new method which is an intermediate between the separation and no-separation strategies. Our deterministic algorithm combines a rough call separation, the computation and self-consistency check of time difference of arrivals, the separation or aggregation of sound sources, the localization of the sources in Cartesian or polar coordinates, and the final identification by an expert. We tested this method on a 190 minute soundscape recording achieved in a temperate freshwater environment. The automated analysis revealed the space and time pattern of an amphibian, avian and human complex soundscape. This procedure opens the possibility to deploy similar passive acoustic programs to monitor either predetermined individuals or the composition of dynamic soundscapes.
+
+<div align="center">
+    <img src="https://github.com/ear-team/sound_source_localization/blob/main/figs/Lellouch_etal_Fig2.png" alt="workflow"/>
+</div>
 
 ## Data Used for the notebooks
 
