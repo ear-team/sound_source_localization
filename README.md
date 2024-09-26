@@ -1,4 +1,4 @@
-# sound_source_localization
+# Sound source localization
 This repository contains the code, the data and the readme to reproduce the figures of the paper : Lellouch &amp; al. Sound source localization in a natural soundscape with autonomous recorder units based on a new time-difference-of-arrival algorithm
 
 
