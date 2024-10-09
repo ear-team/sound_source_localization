@@ -51,7 +51,7 @@ Data used for the notebook `sound_source_localization_full.ipynb` is stored on [
 ## Contributing
 
 The original contribution of this work was done by [Laurent Lellouch](https://www.researchgate.net/profile/Laurent-Lellouch-2) at the [Muséum National d'Histoire Naturelle](http://isyeb.mnhn.fr/fr).
-The list of contribution is [here](https://github.com/ear-team/sound_source_localization/AUTHORS.md) 
+The list of contribution is [here](https://github.com/ear-team/sound_source_localization/blob/main/AUTHORS.md) 
 
 ## Contact
 
