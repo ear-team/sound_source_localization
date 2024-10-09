@@ -4,12 +4,11 @@ This repository contains the code, the data and the readme to reproduce the figu
 
 ## Table of Contents
 
-- [sound\_source\_localization](#sound_source_localization)
+- [Sound source localization](#sound-source-localization)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Purpose of the notebooks](#purpose-of-the-notebooks)
   - [Data Used for the notebooks](#data-used-for-the-notebooks)
-  - [Documentation](#documentation)
   - [Contributing](#contributing)
   - [Contact](#contact)
 
@@ -47,16 +46,12 @@ Two Python Notebooks are provided in this repository.
 
 Data used for the notebook `sound_source_localization_example.ipynb` is stored in the `data/example_data` directory of this repository. It consists on 30-second long mono audio files trimmed from the original audio recorded at the Parc Départemental de la Haute-Île.
 
-Data used for the notebook `sound_source_localization_full.ipynb` is stored on [Zenodo](http://www.zenodo.org/XXXX). The archive can be downloaded from Zenodo and then unzipped on you computer locally in the folder `data` from this repository such that you do not need to change the path in the notebook. Otherwise, you need to change the pass in the notebook.
-
-  
-## Documentation
-
-*To be done*
+Data used for the notebook `sound_source_localization_full.ipynb` is stored on [Zenodo](https://zenodo.org/records/13839256). The archive can be downloaded from Zenodo and then unzipped on you computer locally in the folder `data` from this repository such that you do not need to change the path in the notebook. Otherwise, you need to change the pass in the notebook.
 
 ## Contributing
 
 The original contribution of this work was done by [Laurent Lellouch](https://www.researchgate.net/profile/Laurent-Lellouch-2) at the [Muséum National d'Histoire Naturelle](http://isyeb.mnhn.fr/fr).
+The list of contribution is [here](https://github.com/ear-team/sound_source_localization/AUTHORS.md) 
 
 ## Contact
 
